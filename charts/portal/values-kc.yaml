@@ -858,7 +858,7 @@ portContainer: 8080
 
 portService: 8080
 
-replicaCount: 3
+replicaCount: 1
 
 # -- Node labels for pod assignment
 nodeSelector: {}
